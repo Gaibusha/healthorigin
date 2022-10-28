@@ -17,3 +17,8 @@ Here i created a health website to the people and i provided services like annua
 ## Contact us
 ![Dentile a Medical Category Bootstrap Responsive Website Template _ Home __ W3layouts and 3 more pages - Personal - Microsoft​ Edge 28-10-2022 10_42_25](https://user-images.githubusercontent.com/112068786/198507922-31f4cd75-8ebc-4021-9d65-ee6f81cfd442.png)
 ![Dentile a Medical Category Bootstrap Responsive Website Template _ Home __ W3layouts and 3 more pages - Personal - Microsoft​ Edge 28-10-2022 10_43_21](https://user-images.githubusercontent.com/112068786/198508005-fc1902a2-78e4-498f-b9e4-50a65394dd12.png)
+
+
+## Azure portal screenshot
+
+![Dentile a Medical Category Bootstrap Responsive Website Template _ Home __ W3layouts and 3 more pages - Personal - Microsoft​ Edge 28-10-2022 10_54_44](https://user-images.githubusercontent.com/112068786/198509722-537cd84f-bb87-4324-8b7a-dff0ca66b010.png)
